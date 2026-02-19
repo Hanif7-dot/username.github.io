@@ -25,4 +25,4 @@ games like marvel rivals but with historical figures hero shooter games not rpg 
 -Prototype using HTML game
 
 ## 📫 Kontak
-Email:haru56harin@gmail.com / Instagram:hanrys_49
+Email:haru56harin@gmail.com / Instagram: @hanrys_49
