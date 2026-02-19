@@ -1,8 +1,8 @@
 # username.github.io
 # Halo, my name is Hanieru 👋
 
-## 🎓 Tentang Saya
-Saya siswa kelas 10 yang tertarik pada AI dan Game Development.
+## 🎓 About Me
+I am a 10th grade student interested in AI and Game Development.
 
 ## 💻 Skill
 - Python
