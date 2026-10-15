@@ -1,5 +1,5 @@
 # username.github.io
-# Halo, my name is Hanieru 👋
+# Halo, my name is Hanif Pradikta 👋
 
 ## 🎓 About Me
 I am a 10th grade student interested in AI and Game Development.
